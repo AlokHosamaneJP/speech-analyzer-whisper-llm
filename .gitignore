@@ -1,0 +1,8 @@
+my_env/
+.theia/
+__pycache__/
+*.pyc
+*.mp3
+*.wav
+flagged/
+.env
