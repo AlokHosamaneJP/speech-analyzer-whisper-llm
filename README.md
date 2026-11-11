@@ -123,6 +123,4 @@ From `requirements.txt`:
 - `ibm-watsonx-ai`: IBM watsonx.ai SDK
 - `requests`: HTTP utilities
 
-## License
 
-No license is specified in this repository. Add one if you want others to reuse the code.
